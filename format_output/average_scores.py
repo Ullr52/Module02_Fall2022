@@ -1,3 +1,12 @@
+"""
+Program: Module 2 Topic 3 Basic Input and Format Output Assignment
+Author: John Ord
+Last date modified: 09/05/2022
+
+This program is to take user input and output names and average of scores
+"""
+
+
 last_name = input('Enter your last name: ')
 first_name = input('Enter your first name: ')
 age = int(input('Enter your age: '))
