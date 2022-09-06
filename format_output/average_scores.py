@@ -7,5 +7,5 @@ score3 = float(input('Enter your third score: '))
 
 average = (score1 + score2 + score3)/3
 
-print('{}, {} Age: {}, average grade: {:.2f}'.format(last_name, first_name,age,average))
+print('{}, {}, Age: {}, average grade: {:.2f}'.format(last_name, first_name,age,average))
 
